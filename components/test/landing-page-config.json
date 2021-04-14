@@ -1,0 +1,18 @@
+{
+  "collectionName": "components_test_landing_page_configs",
+  "info": {
+    "name": "LandingPageConfig",
+    "icon": "ad"
+  },
+  "options": {},
+  "attributes": {
+    "layer1": {
+      "type": "string"
+    },
+    "FilterConfig": {
+      "type": "component",
+      "repeatable": false,
+      "component": "test.filter-config"
+    }
+  }
+}

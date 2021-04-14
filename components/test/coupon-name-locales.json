@@ -1,0 +1,13 @@
+{
+  "collectionName": "components_test_coupon_name_locales",
+  "info": {
+    "name": "CouponNameLocales",
+    "icon": "address-book"
+  },
+  "options": {},
+  "attributes": {
+    "layer3": {
+      "type": "string"
+    }
+  }
+}

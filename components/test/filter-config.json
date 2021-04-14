@@ -1,0 +1,18 @@
+{
+  "collectionName": "components_test_filter_configs",
+  "info": {
+    "name": "FilterConfig",
+    "icon": "address-card"
+  },
+  "options": {},
+  "attributes": {
+    "layer2": {
+      "type": "string"
+    },
+    "CouponNameLocales": {
+      "type": "component",
+      "repeatable": true,
+      "component": "test.coupon-name-locales"
+    }
+  }
+}

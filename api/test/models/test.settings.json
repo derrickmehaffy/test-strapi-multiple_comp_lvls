@@ -1,0 +1,22 @@
+{
+  "kind": "collectionType",
+  "collectionName": "tests",
+  "info": {
+    "name": "test"
+  },
+  "options": {
+    "increments": true,
+    "timestamps": true,
+    "draftAndPublish": true
+  },
+  "attributes": {
+    "string": {
+      "type": "string"
+    },
+    "LandingPageConfig": {
+      "type": "component",
+      "repeatable": false,
+      "component": "test.landing-page-config"
+    }
+  }
+}
